@@ -1,0 +1,8 @@
+td,
+th {
+	border: 1.1px solid #AAA;
+	padding: 10px
+}
+input {border-radius: 99px}
+
+tr {border-radius: 10px}
